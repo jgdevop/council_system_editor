@@ -1,0 +1,1497 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+    <!-- Page-hiding snippet (recommended)  -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+      h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+      (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+      {'GTM-TV6Z3B5':true});</script>
+  <!-- Modified Analytics tracking code with Optimize plugin -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-12465412-2', 'auto');
+    ga('require', 'GTM-TV6Z3B5');
+  </script>
+  
+  <script>
+    function detectIE() {
+      var userAgent = window.navigator.userAgent;
+
+      var msie = userAgent.indexOf('MSIE ');
+      if (msie > 0) {
+        // IE 10 or older => return version number
+        return parseInt(userAgent.substring(msie + 5, userAgent.indexOf('.', msie)), 10);
+      }
+
+      var trident = userAgent.indexOf('Trident/');
+      if (trident > 0) {
+        // IE 11 => return version number
+        var rv = userAgent.indexOf('rv:');
+        return parseInt(userAgent.substring(rv + 3, userAgent.indexOf('.', rv)), 10);
+      }
+
+      var edge = userAgent.indexOf('Edge/');
+      if (edge > 0) {
+        // Edge (IE 12+) => return version number
+        return parseInt(userAgent.substring(edge + 5, userAgent.indexOf('.', edge)), 10);
+      }
+
+      // other browser
+      return false;
+    }
+  </script>
+  <script>window.document.documentElement.className = 'js' + (detectIE() ? ' ie' : '');</script>
+  <meta charset="utf-8" />
+<link rel="canonical" href="https://www.naturalis.nl/en" />
+<link rel="shortlink" href="https://www.naturalis.nl/en" />
+<meta name="description" content="Naturalis Biodiversity Center: for anyone who wants to discover more about the richness of nature." />
+<meta property="og:site_name" content="Naturalis" />
+<meta property="og:title" content="Naturalis Biodiversity Center" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org); Commerce 2" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="nl" href="https://www.naturalis.nl/naturalis-biodiversity-center" />
+<link rel="alternate" hreflang="en" href="https://www.naturalis.nl/en/naturalis-biodiversity-center" />
+<link rel="revision" href="https://www.naturalis.nl/en/naturalis-biodiversity-center" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NVLXZ7B');</script>
+
+  <title>Naturalis Biodiversity Center | Museum and research in Leiden</title>
+  <link rel="stylesheet" media="all" href="/uploads/css/css_zNE_4vFGcNcek460V15h4VOYj69wGqzbdbck5vZOQvs.css" />
+<link rel="stylesheet" media="all" href="/uploads/css/css__msUILB4Ee6VaMvQVs9THG8hbUxvP9YKvAxgKTgwWsM.css" />
+
+  
+<!--[if lte IE 8]>
+<script src="/uploads/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+</head>
+<body>
+<a href="#main-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVLXZ7B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <div id="state-navbar" hidden></div>
+  <div id="state-search" hidden></div>
+  <div id="state-search-filter" hidden></div>
+  <div id="state-location" hidden></div>
+
+
+  <div class="page">
+                <header class="page-header">
+          <div class="region-topbar">
+      <div id="block-sitebranding" class="block-sitebranding">
+  
+    
+        <a href="/en" rel="home">
+      <img src="/logo.svg" alt="Home" />
+    </a>
+      
+</div>
+
+
+  <nav class="block-states">
+    <a class="block-states__link block-states__link--back" href="#" hidden>
+      <span class="block-states__link-label">Back</span>
+    </a>
+
+    <a class="block-states__link block-states__link--navbar" href="#state-navbar">
+      <span class="block-states__link-label">Menu</span>
+    </a>
+  </nav>
+  </div>
+
+
+          <div class="region-header">
+          <div id="block-header-node" class="block-header-node">
+  
+    
+      <div class="node-page-header">
+                <div class="node-page-header__header">
+                                                                  <div class="node-page-header__header-item paragraph-visual-lane paragraph-visual-lane--large paragraph-visual-lane--left">
+                    <div class="paragraph-visual-lane__background-image">
+                                                                            <div class="paragraph-visual-lane__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/xlarge/public/background/KMF_190307_NATURALISBOUWT_HIRES-52.jpg?itok=GNJw-8Pa 1x" media="all and (min-width: 75em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/large/public/background/KMF_190307_NATURALISBOUWT_HIRES-52.jpg?itok=Wu4ogyXF 1x" media="all and (min-width: 62em) and (max-width: 74.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/small/public/background/KMF_190307_NATURALISBOUWT_HIRES-52.jpg?itok=wNj0cBXx 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/medium/public/background/KMF_190307_NATURALISBOUWT_HIRES-52.jpg?itok=3xtUaPnd" alt="Glass crown Naturalis Biodiversity Center" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+    
+    <div class="paragraph-visual-lane__background-graphics">
+      <div class="paragraph-visual-lane__content">
+                            <div class="paragraph-visual-lane__body">
+                                                                  
+  <div class="paragraph-visual-lane__body-item text-basic-html"><h2><strong>Naturalis</strong></h2>
+
+<h3>Biodiversity Center</h3>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="972edcd7-1671-4abd-8dcd-d287ec52b534" href="/en/200-years-naturalis" title="Nature's treasure trove - 200 years of Naturalis">More about our 200th anniversary</a></p></div>
+                            </div>
+
+              </div>
+    </div>
+  </div>
+
+                    <div class="node-page-header__header-item paragraph-twofold-lane paragraph-twofold-lane--right">
+          
+    
+    <div class="paragraph-twofold-lane__background-graphics">
+      <div class="paragraph-twofold-lane__content">
+                            <div class="paragraph-twofold-lane__col1">
+                                                                  <div class="paragraph-twofold-lane__col1-item paragraph-text-partial">
+              <h2 class="paragraph-text-partial__title"><div>Our research</div><div>never stops</div></h2>
+          <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p>Naturalis is the national research institute for biodiversity. Our scientists dedicate themselves to describing, understanding and preserving biodiversity without interruption.</p>
+
+<p><a class="link-read-more" href="/en/science">Science</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+          <div class="paragraph-twofold-lane__col2">
+                                                                  <div class="paragraph-twofold-lane__col2-item paragraph-text-partial paragraph-text-partial--highlight">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><h3>Visit the European Museum of the Year 2021</h3>
+
+<p>Please, order your necessary tickets before your visit. This can easily be done online, whenever you want. See you soon! </p>
+
+<p><a class="link-read-more" href="https://tickets.naturalis.nl/Exhibitions/Overview">Tickets</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+  </div>
+
+  </div>
+
+      </div>
+
+
+          <div class="region-navbar">
+      <div class="block-navbar-close">
+    <a class="block-navbar-close__link" href="#">
+      <span class="block-navbar-close__link-label">Close menu</span>
+    </a>
+  </div>
+
+  <div class="language-switcher-language-url block-languageswitcher" id="block-languageswitcher" role="navigation">
+  
+      <h2 class="block-languageswitcher__title">Language</h2>
+    
+      <ul class="links"><li hreflang="nl" data-drupal-link-system-path="&lt;front&gt;" class="nl"><a href="/" class="language-link" hreflang="nl" data-drupal-link-system-path="&lt;front&gt;">Nederlands</a></li><li hreflang="en" data-drupal-link-system-path="&lt;front&gt;" class="en is-active"><a href="/en" class="language-link is-active" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a></li></ul>
+  </div>
+
+  
+
+<nav aria-labelledby="block-topnavigation-title" id="block-topnavigation" class="block-topnavigation">
+            
+  <h2 id="block-topnavigation-title" class="visually-hidden block-topnavigation__title">Top navigation</h2>
+  
+
+            
+
+    
+              <ul class="block-topnavigation__menu">
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en" title="To the homepage" class="block-topnavigation__menu-item-link is-active" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+                    </li>
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en/about-us/support-naturalis/donate" title="Make a donation for the preservation of biodiversity" class="block-topnavigation__menu-item-link" data-drupal-link-system-path="node/13291">Donate</a>
+                    </li>
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en/follow-our-stories" title="Follow our stories" class="block-topnavigation__menu-item-link" data-drupal-link-system-path="node/101">News</a>
+                    </li>
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en/about-us/job-opportunities-work-for-number-one-expert-in-biodiversity" title="Work for the expert in biodiversity" class="block-topnavigation__menu-item-link" data-drupal-link-system-path="node/37">Jobs</a>
+                    </li>
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en/museum/practical-info" title="Tips for a great day out" class="block-topnavigation__menu-item-link" data-drupal-link-system-path="node/6">Practical info</a>
+                    </li>
+                            <li class="block-topnavigation__menu-item">
+            <a href="/en/contact" title="Contact Naturalis Biodiversity Center" class="block-topnavigation__menu-item-link" data-drupal-link-system-path="node/9">Contact</a>
+                    </li>
+              </ul>
+      
+
+
+  </nav>
+
+
+  <div class="block-search-toggle">
+    <a class="block-search-toggle__link block-search-toggle__link--close" href="#">
+      <span class="block-search-toggle__link-label">Close search</span>
+    </a>
+    <a class="block-search-toggle__link block-search-toggle__link--open" href="#state-search">
+      <span class="block-search-toggle__link-label">Open search</span>
+    </a>
+  </div>
+
+  
+
+<nav aria-labelledby="block-mainnavigation-title" id="block-mainnavigation" class="block-mainnavigation">
+            
+  <h2 id="block-mainnavigation-title" class="visually-hidden block-mainnavigation__title">Main navigation</h2>
+  
+
+            
+
+            
+    
+    <ul class="block-mainnavigation__menu">
+      
+    <li class="block-mainnavigation__menu-item block-mainnavigation__menu-item--expanded">
+                  <a href="/en/museum" class="block-mainnavigation__menu-item-link" data-drupal-link-system-path="node/2"><span>Museum</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+            
+    
+    <ul class="block-mainnavigation__submenu">
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/whats-on" title="Discover all our activities" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6969"><span>What's on</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/galleries" title="Read more about our new galleries" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2621"><span>Galleries</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/practical-info" title="Prepare your visit" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6"><span>Practical info</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/galleries/natures-treasure-trove-200-years-of-naturalis" title="Special anniversary exhibition" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13286"><span>Nature's treasure trove</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/naturalis-museumapp" title="Get even more out of your visit to Naturalis" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/9166"><span>Museum app</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/virtualmuseum" title="Visit the museum online" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="virtualmuseum"><span>Virtual museum</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/conferences-and-events" title="Welcome your guests at a meeting surrounded by biodiversity" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6971"><span>Conferences and events</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/naturalis-during-corona-crisis" title="Read more about your visit to Naturalis during the corona crisis" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13136"><span>Visit Naturalis during the corona crisis</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+    </ul>
+
+
+
+
+      <div class="block-mainnavigation__menu-item-body">
+                                                                            <div class="block-mainnavigation__menu-item-body-item"><p>Naturalis is European Museum of the Year 2021! Discover the best of nature at the new Naturalis. Step into the world of dinosaurs and stand face to face with <em>T. rex</em> Trix, or find out what The Netherlands looked like during the last Ice Age.</p>
+
+<p><a class="link-read-more" href="https://tickets.naturalis.nl/Exhibitions/Register?id=129E4A4E-F1B7-E811-A2D1-9231B00B425E&amp;refresh=y">Order your tickets</a></p></div>
+                                      </div>
+
+
+    
+  </div>
+
+
+          </li>
+      
+    <li class="block-mainnavigation__menu-item block-mainnavigation__menu-item--expanded">
+                  <a href="/en/science" class="block-mainnavigation__menu-item-link" data-drupal-link-system-path="node/7"><span>Science</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+            
+    
+    <ul class="block-mainnavigation__submenu">
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/science/researchers-and-specialists" title="An overview of our researchers and specialists" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/33"><span>Researchers</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/science/educational-activities" title="Naturalis offers possibilities for internships and research" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/194"><span>Courses for students</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/naturalis-laboratories" title="Our laboratories make high-tech research possible" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/1206"><span>Laboratories</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/science/ict-more-than-just-data" title="ICT is essential for research" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2573"><span>ICT facilities</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+    </ul>
+
+
+
+
+      <div class="block-mainnavigation__menu-item-body">
+                                                                            <div class="block-mainnavigation__menu-item-body-item"><p>Our knowledge contributes to biodiversity preservation.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="61685632-be45-4ba9-ba12-918a7fa54b40" href="/en/science" title="Science">Read more</a></p></div>
+                                      </div>
+
+
+    
+  </div>
+
+
+          </li>
+      
+    <li class="block-mainnavigation__menu-item">
+                  <a href="/en/collection" class="block-mainnavigation__menu-item-link" data-drupal-link-system-path="node/10"><span>Collection</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+
+    
+
+    
+  </div>
+
+
+          </li>
+      
+    <li class="block-mainnavigation__menu-item block-mainnavigation__menu-item--expanded">
+                  <a href="/en/education" class="block-mainnavigation__menu-item-link" data-drupal-link-system-path="node/2690"><span>Education</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+            
+    
+    <ul class="block-mainnavigation__submenu">
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/education/primary_education" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2614"><span>Programs primary education</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/education/secondary_education" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2613"><span>Programs secondary education</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/education/booking-info" title="Prepare your visit to Naturalis" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2612"><span>Booking information</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+    </ul>
+
+
+
+
+      <div class="block-mainnavigation__menu-item-body">
+                                                                            <div class="block-mainnavigation__menu-item-body-item"><p>Together, we discover the richness of nature. Whatever you know or feel, there's always more to be  enthusiastic about, more to learn and more to investigate.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="1f22b8dd-79dd-4934-8c9a-571b8a305ad9" href="/en/education" title="Education">Read more</a></p></div>
+                                      </div>
+
+
+    
+  </div>
+
+
+          </li>
+      
+    <li class="block-mainnavigation__menu-item block-mainnavigation__menu-item--expanded">
+                  <a href="/en/about-us" class="block-mainnavigation__menu-item-link" data-drupal-link-system-path="node/30"><span>About us</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+            
+    
+    <ul class="block-mainnavigation__submenu">
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/200-years-naturalis" title="More about our anniversary" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13246"><span>200 years of Naturalis</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/about-us/job-opportunities-work-for-number-one-expert-in-biodiversity" title="Job opportunities at Naturalis" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/37"><span>Vacancies</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/follow-our-stories" title="Follow our stories and keep informed" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/101"><span>News</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/about-us/support-naturalis" title="Contribute to biodiversity preservation" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13260"><span>Support us</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/about-us/media-our-experts-are-happy-to-respond-to-all-press-inquiries" title="Press releases and images" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2626"><span>Media</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/about-us/our-building" title="More about our new building" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2768"><span>Our building</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+      
+    <li class="block-mainnavigation__submenu-item">
+                  <a href="/en/museum/conferences-and-events" title="Welcome your guests at a meeting surrounded by biodiversity" class="block-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6971"><span>Conferences and events</span></a>
+
+                    
+
+    
+
+  
+
+
+          </li>
+    </ul>
+
+
+
+
+      <div class="block-mainnavigation__menu-item-body">
+                                                                            <div class="block-mainnavigation__menu-item-body-item"><p>We are Naturalis Biodiversity Center. Through our impressive collection, knowledge and data, we record all life on Earth. This is important, as our future depends on biodiversity. </p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9efa260a-5b79-4b92-a422-48b84435d262" href="/en/about-us" title="About us">Read more</a></p></div>
+                                      </div>
+
+
+    
+  </div>
+
+
+          </li>
+      
+    <li class="block-mainnavigation__menu-item">
+                  <a href="https://tickets.naturalis.nl/Exhibitions/Overview/?expositionType=A8F942D1-F0B7-E811-A2D1-9231B00B425E&amp;refresh=y&amp;language=EN" title="Buy your tickets in our Naturalis ticketshop" class="block-mainnavigation__menu-item-link"><span>Tickets</span></a>
+
+                    
+
+    
+  <div class="block-mainnavigation__menu-item-content">
+    
+
+    
+
+    
+  </div>
+
+
+          </li>
+    </ul>
+
+
+  </nav>
+
+  <div class="views-exposed-form block-sitesearch" data-drupal-selector="views-exposed-form-site-search-results" id="block-sitesearch">
+  
+    
+  <a class="block-sitesearch__close" href="#">
+    <span class="block-sitesearch__close-label">Close search</span>
+  </a>
+      <form action="/en/search" method="get" id="views-exposed-form-site-search-results" accept-charset="UTF-8" class="form-views-exposed-form">
+  <div class="form-views-exposed-form__keys js-form-item js-form-type-textfield js-form-item-keys form-item form-item-keys form-type-textfield">
+      <label for="edit-keys" class="form-item__label">Keywords</label>
+          <input placeholder="What are you looking for?" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">    <button data-drupal-selector="edit-submit-site-search" type="submit" id="edit-submit-site-search" value="Search" class="button js-form-submit form-submit">Search</button>
+</div>
+
+
+</form>
+
+    <a class="block-sitesearch__close-area" href="#" title="Click to close the search bar"></a>
+</div>
+
+  </div>
+
+      </header>
+    
+    
+                <main class="page-body">
+        <a id="main-content" tabindex="-1"></a>
+          <div class="region-content-top">
+          <div id="block-messages" class="block-messages">
+  
+    
+      <div data-drupal-messages-fallback class="hidden"></div>
+  </div>
+
+      </div>
+
+
+          <div class="region-content">
+          <div id="block-primary-content" class="block-primary-content">
+  
+    
+      <article role="article" class="node-page-full">
+      
+        
+
+    
+    <div class="node-page-full__content">
+                <div class="node-page-full__body">
+                                                                  <div class="node-page-full__body-item paragraph-carousel-lane paragraph-carousel-lane--neutral-light">
+          
+    
+    <div class="paragraph-carousel-lane__background-graphics">
+      <div class="paragraph-carousel-lane__content">
+                            <div class="paragraph-carousel-lane__slides">
+                                                                  <div class="paragraph-carousel-lane__slides-item">
+    <div class="paragraph-carousel-lane__slides-item-container">
+      <div class="paragraph-carousel-lane__slides-item-content paragraph-threefold-tsp01-lane paragraph-threefold-tsp01-lane--neutral-light">
+          
+    
+    <div class="paragraph-threefold-tsp01-lane__background-graphics">
+      <div class="paragraph-threefold-tsp01-lane__content">
+              <div class="paragraph-threefold-tsp01-lane__content-header">
+      
+      
+    </div>
+  
+    <div class="paragraph-threefold-tsp01-lane__primary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__primary-item paragraph-text-partial">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p class="par-kicker">National collection</p>
+
+<h3>Millions of objects</h3>
+
+<p>Our collection is the foundation for studying and understanding biodiversity worldwide. You will be able to view some of it in the new museum.</p>
+
+<p><a class="link-read-more" href="/en/collection">Collection</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-tsp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2018-08/Trilobite%20RGM.1276635_0.jpg?h=06f6671c&amp;itok=sJUKY42G 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2018-08/Trilobite%20RGM.1276635_0.jpg?h=06f6671c&amp;itok=d1NPBASJ 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2018-08/Trilobite%20RGM.1276635_0.jpg?h=06f6671c&amp;itok=h9UoBJqj" alt="Trilobiet" />
+
+  </picture>
+
+</div>
+                                      </div>
+          <div class="paragraph-visual-small-partial__background-video">
+                                                                            <div class="paragraph-visual-small-partial__background-video-item"><div class="video-embed-field-provider-vimeo video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://player.vimeo.com/video/284682552?autoplay=1&amp;background=1"></iframe>
+</div>
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-tsp01-lane__tertiary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__tertiary-item paragraph-visual-small-partial-sm">
+                    <div class="paragraph-visual-small-partial-sm__background-image">
+                                                                            <div class="paragraph-visual-small-partial-sm__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_xs/public/2018-08/Eulalia%20Gasso%20Miracle%202.jpg?h=17a7a6d8&amp;itok=eXltceN3 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="6" data-focal-y="5" src="/uploads/styles/16x9_sm/public/2018-08/Eulalia%20Gasso%20Miracle%202.jpg?h=17a7a6d8&amp;itok=y5hdAOC7" alt="Vlinders in onze collectie" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+    
+    <div class="paragraph-visual-small-partial-sm__background-graphics">
+      <div class="paragraph-visual-small-partial-sm__content">
+                  
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+                    <div class="paragraph-carousel-lane__slides-item">
+    <div class="paragraph-carousel-lane__slides-item-container">
+      <div class="paragraph-carousel-lane__slides-item-content paragraph-threefold-tsp01-lane paragraph-threefold-tsp01-lane--neutral-light">
+          
+    
+    <div class="paragraph-threefold-tsp01-lane__background-graphics">
+      <div class="paragraph-threefold-tsp01-lane__content">
+              <div class="paragraph-threefold-tsp01-lane__content-header">
+      
+      
+    </div>
+  
+    <div class="paragraph-threefold-tsp01-lane__primary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__primary-item paragraph-text-partial">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p class="par-kicker">National collection</p>
+
+<h3>Our collection highlights online</h3>
+
+<p>Marvel at the most iconic pieces in our collection online. From quetzals to acorn barnacles, from Apollo butterflies to the <em>T. rex</em>: our collection managers put the spotlight on the most eye-catching objects.</p>
+
+<p><a class="link-read-more" href="https://topstukken.naturalis.nl/">Naturalis Topstukken (Dutch)</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-tsp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2018-08/Quetzal%20%281%29.jpg?h=d1cb525d&amp;itok=jmSAQiby 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2018-08/Quetzal%20%281%29.jpg?h=d1cb525d&amp;itok=4wKj6IcS 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2018-08/Quetzal%20%281%29.jpg?h=d1cb525d&amp;itok=hk4gpqH5" alt="Quetzal" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-tsp01-lane__tertiary">
+                                                                  <div class="paragraph-threefold-tsp01-lane__tertiary-item paragraph-visual-small-partial-sm">
+                    <div class="paragraph-visual-small-partial-sm__background-image">
+                                                                            <div class="paragraph-visual-small-partial-sm__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_xs/public/2018-08/Zeepok.jpg?h=d1cb525d&amp;itok=FvYkYOib 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_sm/public/2018-08/Zeepok.jpg?h=d1cb525d&amp;itok=UBJ3dRwn" alt="Zeepok" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+    
+    <div class="paragraph-visual-small-partial-sm__background-graphics">
+      <div class="paragraph-visual-small-partial-sm__content">
+                  
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+                            </div>
+
+              </div>
+    </div>
+  </div>
+
+                    <div class="node-page-full__body-item paragraph-threefold-spt01-lane">
+          
+    
+    <div class="paragraph-threefold-spt01-lane__background-graphics">
+      <div class="paragraph-threefold-spt01-lane__content">
+              <div class="paragraph-threefold-spt01-lane__content-header">
+      <h2 class="paragraph-threefold-spt01-lane__title"><div>Education</div><div>at Naturalis</div></h2>
+
+      
+    </div>
+  
+    <div class="paragraph-threefold-spt01-lane__primary">
+                                                                  <div class="paragraph-threefold-spt01-lane__primary-item paragraph-text-partial paragraph-text-partial--highlight-2">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p>At Naturalis, marvel is the starting point of learning. Together we discover the richness of nature. There is always more to be enthusiastic about, more to learn and more to explore.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3c8b6a1f-e629-486a-8529-0feedd31d9ca" href="/en/education">Education</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-spt01-lane__secondary">
+                                                                  <div class="paragraph-threefold-spt01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2018-08/Kopie%20van%20MD-NATURALIS-EXPO%20EXPEDITIE%20038.jpeg?h=a16de168&amp;itok=0Waqj0xe 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2018-08/Kopie%20van%20MD-NATURALIS-EXPO%20EXPEDITIE%20038.jpeg?h=a16de168&amp;itok=cw-le8zQ 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2018-08/Kopie%20van%20MD-NATURALIS-EXPO%20EXPEDITIE%20038.jpeg?h=a16de168&amp;itok=GYV41WJu" alt="Onderzoek het leven in de sloot" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-spt01-lane__tertiary">
+                                                                  <div class="paragraph-threefold-spt01-lane__tertiary-item paragraph-visual-small-partial-sm">
+                    <div class="paragraph-visual-small-partial-sm__background-image">
+                                                                            <div class="paragraph-visual-small-partial-sm__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_xs/public/2018-08/Educatie%20-0053-2.jpg?h=80ea3a61&amp;itok=KdmSPGOs 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="6" data-focal-y="5" src="/uploads/styles/16x9_sm/public/2018-08/Educatie%20-0053-2.jpg?h=80ea3a61&amp;itok=Krr_E02O" alt="Educatie" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+    
+    <div class="paragraph-visual-small-partial-sm__background-graphics">
+      <div class="paragraph-visual-small-partial-sm__content">
+                  
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+                    <div class="node-page-full__body-item paragraph-statistics-lane paragraph-statistics-lane--spacious paragraph-statistics-lane--neutral-light">
+    <div class="paragraph-statistics-lane__background-graphics">
+    <div class="paragraph-statistics-lane__content paragraph-statistics-lane__content--highlight">
+              <h2 class="paragraph-statistics-lane__title"><div>Naturalis</div><div>Biodiversity Center</div></h2>
+
+      <div class="paragraph-statistics-lane__statistic-wrapper">
+                  <div class="paragraph-statistics-lane__statistic">
+                                                                  <div class="paragraph-statistics-lane__statistic-item paragraph-statistic-partial">
+                <div class="paragraph-statistic-partial__image">
+                                                                            <div class="paragraph-statistic-partial__image-item">    <picture>
+                  <source srcset="/uploads/styles/xxsmall/public/2018-08/Bird_eagle-flying.png?itok=RPI_EYOs 1x" media="all and (max-width: 55.4999em)" type="image/png"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/xxsmall/public/2018-08/Bird_eagle-flying.png?itok=RPI_EYOs" alt="Afbeelding van een vogel" />
+
+  </picture>
+
+</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__amount">
+                                                                            <div class="paragraph-statistic-partial__amount-item">41.976.261</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__label">
+                                                                            <div class="paragraph-statistic-partial__label-item">collection objects</div>
+                                      </div>
+
+  </div>
+
+                    <div class="paragraph-statistics-lane__statistic-item paragraph-statistic-partial">
+                <div class="paragraph-statistic-partial__image">
+                                                                            <div class="paragraph-statistic-partial__image-item">    <picture>
+                  <source srcset="/uploads/styles/xxsmall/public/2018-08/Seaslug.png?itok=nccqT1jD 1x" media="all and (max-width: 55.4999em)" type="image/png"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/xxsmall/public/2018-08/Seaslug.png?itok=nccqT1jD" alt="Afbeelding van een zeedier" />
+
+  </picture>
+
+</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__amount">
+                                                                            <div class="paragraph-statistic-partial__amount-item">9</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__label">
+                                                                            <div class="paragraph-statistic-partial__label-item">new exhibitions</div>
+                                      </div>
+
+  </div>
+
+                    <div class="paragraph-statistics-lane__statistic-item paragraph-statistic-partial">
+                <div class="paragraph-statistic-partial__image">
+                                                                            <div class="paragraph-statistic-partial__image-item">    <picture>
+                  <source srcset="/uploads/styles/xxsmall/public/2018-08/Plant_fern.png?itok=yCAgVn2q 1x" media="all and (max-width: 55.4999em)" type="image/png"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/xxsmall/public/2018-08/Plant_fern.png?itok=yCAgVn2q" alt="Afbeelding van een plant" />
+
+  </picture>
+
+</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__amount">
+                                                                            <div class="paragraph-statistic-partial__amount-item">111</div>
+                                      </div>
+          <div class="paragraph-statistic-partial__label">
+                                                                            <div class="paragraph-statistic-partial__label-item">researchers at work</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+
+      </div>
+                <div class="paragraph-statistics-lane__body">
+                                                                  
+  <div class="paragraph-statistics-lane__body-item text-basic-html"><p>With a unique combination of knowledge, talents and skills, we operate as a national museum, academic research institute and heritage institution.</p>
+
+<p><a class="link-read-more" href="/en/about-us">About us</a></p></div>
+                            </div>
+
+    </div>
+  </div>
+</div>
+
+
+                    <div class="node-page-full__body-item paragraph-threefold-stp01-lane">
+          
+    
+    <div class="paragraph-threefold-stp01-lane__background-graphics">
+      <div class="paragraph-threefold-stp01-lane__content">
+              <div class="paragraph-threefold-stp01-lane__content-header">
+      <h2 class="paragraph-threefold-stp01-lane__title"><div>Expert</div><div>in biodiversity</div></h2>
+
+      
+    </div>
+  
+    <div class="paragraph-threefold-stp01-lane__primary">
+                                                                  <div class="paragraph-threefold-stp01-lane__primary-item paragraph-text-partial paragraph-text-partial--neutral-light">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><h3>National research institute</h3>
+
+<p>Naturalis employs 120 scientists in seven different research groups. We are happy to offer young scientific talent the opportunity to further develop ideas in a stimulating, open environment. With 80 PhDs and postdocs, Naturalis contributes to innovating Dutch research at the highest level in the green life sciences.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="175f083b-f72d-42f0-b58f-e988b2e7dd6a" href="/en/science/researchers-and-specialists" title="Researchers and specialists">Scientists and research groups</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-stp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-stp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2018-08/Vincent.jpg?h=a083bbf4&amp;itok=mEtFQfHf 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2018-08/Vincent.jpg?h=a083bbf4&amp;itok=Ipjw1CK3 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="6" src="/uploads/styles/16x9_md/public/2018-08/Vincent.jpg?h=a083bbf4&amp;itok=sMHhmtyT" alt="Onderzoek in het veld" />
+
+  </picture>
+
+</div>
+                                      </div>
+          <div class="paragraph-visual-small-partial__background-video">
+                                                                            <div class="paragraph-visual-small-partial__background-video-item"><div class="video-embed-field-provider-vimeo video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://player.vimeo.com/video/284681513?autoplay=1&amp;background=1"></iframe>
+</div>
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-stp01-lane__tertiary">
+                                                                  <div class="paragraph-threefold-stp01-lane__tertiary-item paragraph-visual-small-partial-sm">
+                    <div class="paragraph-visual-small-partial-sm__background-image">
+                                                                            <div class="paragraph-visual-small-partial-sm__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_xs/public/2018-08/Barbara%20Erycina%20pusilla_0.jpg?h=4994e1c7&amp;itok=iHy36P78 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_sm/public/2018-08/Barbara%20Erycina%20pusilla_0.jpg?h=4994e1c7&amp;itok=CXlZqacU" alt="Onderzoek in het lab" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+    
+    <div class="paragraph-visual-small-partial-sm__background-graphics">
+      <div class="paragraph-visual-small-partial-sm__content">
+                  
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+                    <div class="node-page-full__body-item paragraph-carousel-lane paragraph-carousel-lane--neutral-light">
+          
+    
+    <div class="paragraph-carousel-lane__background-graphics">
+      <div class="paragraph-carousel-lane__content">
+                            <div class="paragraph-carousel-lane__slides">
+                                                                  <div class="paragraph-carousel-lane__slides-item">
+    <div class="paragraph-carousel-lane__slides-item-container">
+      <div class="paragraph-carousel-lane__slides-item-content paragraph-threefold-sp01-lane">
+          
+    
+    <div class="paragraph-threefold-sp01-lane__background-graphics">
+      <div class="paragraph-threefold-sp01-lane__content">
+              <div class="paragraph-threefold-sp01-lane__content-header">
+      <h2 class="paragraph-threefold-sp01-lane__title"><div>Follow</div><div>our stories</div></h2>
+
+        <div class="paragraph-threefold-sp01-lane__body">
+                                                                  
+  <div class="paragraph-threefold-sp01-lane__body-item text-basic-html"><p>Follow our social media for all the latest news about the museum and our researchers' day-to-day work and new discoveries.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="48e3b9b5-3ce4-495f-bb62-795fe27229b7" href="/en/follow-our-stories" title="Follow our stories">News and blogs</a></p>
+
+<p><a class="link-icon-facebook" href="https://www.facebook.com/museumnaturalis/">Facebook</a><a class="link-icon-twitter" href="https://twitter.com/museumnaturalis">Twitter</a><a class="link-icon-instagram" href="https://www.instagram.com/naturalismuseum/">Instagram</a><a class="link-icon-youtube" href="http://www.youtube.com/user/NaturalisLeiden">YouTube</a></p></div>
+                            </div>
+
+    </div>
+  
+    <div class="paragraph-threefold-sp01-lane__primary">
+                                                                  <div class="paragraph-threefold-sp01-lane__primary-item paragraph-text-partial paragraph-text-partial--highlight-3">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p class="par-kicker">April 8, 2021</p>
+
+<h3>Kevin Beentjes receives PhD on monitoring biodiversity in freshwater</h3>
+
+<p>Kevin Beentjes received his PhD on 8 April for his research on monitoring biodiversity in freshwater at Naturalis Biodiversity Center, where he has been working for ten years now.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0f54ee7f-a8f8-4812-915e-0693ef428f5f" href="/en/follow-our-stories/kevin-beentjes-receives-phd-on-monitoring-biodiversity-in-freshwater" title="Kevin Beentjes receives PhD  on monitoring biodiversity in freshwater">Read more</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-sp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-sp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2021-04/Hetportretbureau_Naturalis_dag_135308%20Kevin%20Beentjes_0.jpg?h=21255447&amp;itok=eV7HH9Gu 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2021-04/Hetportretbureau_Naturalis_dag_135308%20Kevin%20Beentjes_0.jpg?h=21255447&amp;itok=FuzY8d8f 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2021-04/Hetportretbureau_Naturalis_dag_135308%20Kevin%20Beentjes_0.jpg?h=21255447&amp;itok=8pGoJVT0" alt="Kevin Beentjes" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+                    <div class="paragraph-carousel-lane__slides-item">
+    <div class="paragraph-carousel-lane__slides-item-container">
+      <div class="paragraph-carousel-lane__slides-item-content paragraph-threefold-sp01-lane">
+          
+    
+    <div class="paragraph-threefold-sp01-lane__background-graphics">
+      <div class="paragraph-threefold-sp01-lane__content">
+              <div class="paragraph-threefold-sp01-lane__content-header">
+      <h2 class="paragraph-threefold-sp01-lane__title"><div>Volg </div><div>onze verhalen</div></h2>
+
+        <div class="paragraph-threefold-sp01-lane__body">
+                                                                  
+  <div class="paragraph-threefold-sp01-lane__body-item text-basic-html"><p>Volg hier het nieuws over het museum en het dagelijkse werk en nieuwe ontdekkingen van onze onderzoekers.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="48e3b9b5-3ce4-495f-bb62-795fe27229b7" href="/en/follow-our-stories" title="Follow our stories">Nieuws en blogs</a></p>
+
+<p><a class="link-icon-facebook" href="https://www.facebook.com/museumnaturalis/">Facebook</a><a class="link-icon-twitter" href="https://twitter.com/museumnaturalis">Twitter</a><a class="link-icon-instagram" href="https://www.instagram.com/naturalismuseum/">Instagram</a><a class="link-icon-youtube" href="http://www.youtube.com/user/NaturalisLeiden">YouTube</a></p></div>
+                            </div>
+
+    </div>
+  
+    <div class="paragraph-threefold-sp01-lane__primary">
+                                                                  <div class="paragraph-threefold-sp01-lane__primary-item paragraph-text-partial paragraph-text-partial--highlight-3">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p class="par-kicker">3 augustus 2021</p>
+
+<h3>Nieuwe vlindersoort als afstudeerstage</h3>
+
+<p>De 18-jarige MBO-studente Noortje Looijenga beschreef een nieuwe vlindersoort tijdens haar stage bij Naturalis. </p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9630bfe1-97f6-4a47-b400-49d6ff6f5ffd" href="/wetenschap/nieuwe-vlindersoort-als-afstudeerstage" title="Nieuwe vlindersoort">Lees meer</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-sp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-sp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2021-08/CymeLaetabewerkt.jpg?h=dd48a0f4&amp;itok=zncHhTfu 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2021-08/CymeLaetabewerkt.jpg?h=dd48a0f4&amp;itok=DzFJn7gT 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2021-08/CymeLaetabewerkt.jpg?h=dd48a0f4&amp;itok=30PIaeB_" alt="Nieuwe vlindersoort Cyme laeta" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+                    <div class="paragraph-carousel-lane__slides-item">
+    <div class="paragraph-carousel-lane__slides-item-container">
+      <div class="paragraph-carousel-lane__slides-item-content paragraph-threefold-sp01-lane">
+          
+    
+    <div class="paragraph-threefold-sp01-lane__background-graphics">
+      <div class="paragraph-threefold-sp01-lane__content">
+              <div class="paragraph-threefold-sp01-lane__content-header">
+      <h2 class="paragraph-threefold-sp01-lane__title"><div>Follow</div><div>our stories</div></h2>
+
+        <div class="paragraph-threefold-sp01-lane__body">
+                                                                  
+  <div class="paragraph-threefold-sp01-lane__body-item text-basic-html"><p>Follow the news about the museum and the daily work and new discoveries of our researchers here.</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="48e3b9b5-3ce4-495f-bb62-795fe27229b7" href="/en/follow-our-stories" title="Follow our stories">News and blogs</a></p>
+
+<p><a class="link-icon-facebook" href="https://www.facebook.com/museumnaturalis/">Facebook</a><a class="link-icon-twitter" href="https://twitter.com/museumnaturalis">Twitter</a><a class="link-icon-instagram" href="https://www.instagram.com/naturalismuseum/">Instagram</a><a class="link-icon-youtube" href="http://www.youtube.com/user/NaturalisLeiden">YouTube</a></p></div>
+                            </div>
+
+    </div>
+  
+    <div class="paragraph-threefold-sp01-lane__primary">
+                                                                  <div class="paragraph-threefold-sp01-lane__primary-item paragraph-text-partial paragraph-text-partial--highlight-3">
+                <div class="paragraph-text-partial__body">
+                                                                  
+  <div class="paragraph-text-partial__body-item text-basic-html"><p class="par-kicker">July 15, 2021</p>
+
+<h3>Top marks for Naturalis research </h3>
+
+<p>An external visitation committee rated our research quality as "excellent"</p>
+
+<p><a class="link-read-more" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="be15bc9d-279c-4cd2-915b-de9f33b12287" href="/en/wetenschap/naturalis-research-receives-top-marks" title="Naturalis’ research  receives top marks">Read more</a></p></div>
+                            </div>
+
+  </div>
+
+                            </div>
+  <div class="paragraph-threefold-sp01-lane__secondary">
+                                                                  <div class="paragraph-threefold-sp01-lane__secondary-item paragraph-visual-small-partial">
+                <div class="paragraph-visual-small-partial__background-image">
+                                                                            <div class="paragraph-visual-small-partial__background-image-item">    <picture>
+                  <source srcset="/uploads/styles/16x9_sm/public/2021-07/Uitsnede%20met%20zonder%20kaartje_0.jpg?h=89fa4450&amp;itok=fXnwi5wa 1x" media="all and (min-width: 55.5em) and (max-width: 61.999em)" type="image/jpeg"/>
+              <source srcset="/uploads/styles/16x9_xs/public/2021-07/Uitsnede%20met%20zonder%20kaartje_0.jpg?h=89fa4450&amp;itok=A39uK9nu 1x" media="all and (max-width: 55.4999em)" type="image/jpeg"/>
+                  <img class="responsive-image" data-focal-x="5" data-focal-y="5" src="/uploads/styles/16x9_md/public/2021-07/Uitsnede%20met%20zonder%20kaartje_0.jpg?h=89fa4450&amp;itok=dnRyJlA_" alt="Handing over the report" />
+
+  </picture>
+
+</div>
+                                      </div>
+
+  </div>
+
+                            </div>
+
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+                            </div>
+
+              </div>
+    </div>
+  </div>
+
+                            </div>
+
+    </div>
+
+      </article>
+
+  </div>
+
+      </div>
+
+      </main>
+    
+    
+                <footer class="page-footer">
+        <div class="region-footer">
+      <div class="region-footer__background-graphics"></div>
+  <div class="block-footer-suggestions">
+      </div>
+
+  <div id="block-footer-mailing-subscribe" class="block-footer-mailing-subscribe">
+  <a class="block-footer-mailing-subscribe__logo" href="/" data-drupal-link-system-path="<front>"></a>
+  
+  <div class="block-footer-mailing-subscribe__content">
+    <h2 class="block-footer-mailing-subscribe__title">Keep me informed!</h2>
+    <p class='block-footer-mailing-subscribe__description'>The latest news just for you.</p>
+  </div>
+  
+      <div class="block-footer-mailing-subscribe__form">
+      <form class="custom-mailing-subscribe form-custom-mailing-subscribe" data-drupal-selector="custom-mailing-subscribe-2" action="/en/mailing-subscribe" method="post" id="custom-mailing-subscribe--2" accept-charset="UTF-8">
+  <div class="form-custom-mailing-subscribe__email js-form-item js-form-type-email js-form-item-email form-item form-item-email form-type-email">
+      <label for="edit-email--2" class="form-item__label js-form-required form-item__label--required">Email address</label>
+          <input data-drupal-selector="edit-email" type="email" id="edit-email--2" name="email" value="" size="50" maxlength="254" class="form-email required" required="required" aria-required="true" />
+
+        </div>
+    <button data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Sign up" class="button js-form-submit form-submit">Sign up</button>
+
+</form>
+
+    </div>
+  </div>
+
+
+<nav aria-labelledby="block-footer-mainnavigation-title" id="block-footer-mainnavigation" class="block-footer-mainnavigation">
+            
+  <h2 id="block-footer-mainnavigation-title" class="visually-hidden block-footer-mainnavigation__title">Voet hoofdnavigatie</h2>
+  
+
+            
+
+    
+              <ul class="block-footer-mainnavigation__menu">
+                            <li class="block-footer-mainnavigation__menu-item block-footer-mainnavigation__menu-item--expanded">
+            <a href="/en/museum" class="block-footer-mainnavigation__menu-item-link" data-drupal-link-system-path="node/2">Museum</a>
+                                    <ul class="block-footer-mainnavigation__submenu">
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/virtualmuseum" title="Visit the museum online" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="virtualmuseum">Virtual museum</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/whats-on" title="Pick a date and find out what&#039;s on that day" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6969">Agenda</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/practical-info" title="Prepare your visit" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6">Practical info</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/galleries" title="Read more about our new galleries" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2621">Galleries</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/naturalis-museumapp" title="Get even more out of your visit to Naturalis" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/9166">Naturalis museum app</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/conferences-and-events" title="Welcome your guests at a meeting surrounded by biodiversity" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6971">Conferences and events</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="http://naturalis.nnm.nl/" title="View the old museum online" class="block-footer-mainnavigation__submenu-item-link">The old museum</a>
+                      </li>
+              </ul>
+      
+                    </li>
+                            <li class="block-footer-mainnavigation__menu-item block-footer-mainnavigation__menu-item--expanded">
+            <a href="/en/science" class="block-footer-mainnavigation__menu-item-link" data-drupal-link-system-path="node/7">Science</a>
+                                    <ul class="block-footer-mainnavigation__submenu">
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/science/researchers-and-specialists" title="Get to know our experts" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/33">Researchers and specialists</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/naturalis-laboratories" title="Our laboratories make high-tech research possible" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/1206">Laboratories</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/science/educational-activities" title="Naturalis offers possibilities for internships and research" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/194">Courses for students</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/science/ict-more-than-just-data" title="ICT is essential for research" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2573">ICT facilities</a>
+                      </li>
+              </ul>
+      
+                    </li>
+                            <li class="block-footer-mainnavigation__menu-item">
+            <a href="/en/collection" class="block-footer-mainnavigation__menu-item-link" data-drupal-link-system-path="node/10">Collection</a>
+                    </li>
+                            <li class="block-footer-mainnavigation__menu-item block-footer-mainnavigation__menu-item--expanded">
+            <a href="/en/education" class="block-footer-mainnavigation__menu-item-link" data-drupal-link-system-path="node/2690">Education</a>
+                                    <ul class="block-footer-mainnavigation__submenu">
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/education/primary_education" title="Workshops and programs for primary education" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2614">Programs for primary education</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/education/secondary_education" title="Workshops and programs for secondary education" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2613">Programs for secondary education</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/education/booking-info" title="Prepare your visit to Naturalis" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2612">Booking information</a>
+                      </li>
+              </ul>
+      
+                    </li>
+                            <li class="block-footer-mainnavigation__menu-item block-footer-mainnavigation__menu-item--expanded">
+            <a href="/en/about-us" class="block-footer-mainnavigation__menu-item-link" data-drupal-link-system-path="node/30">About us</a>
+                                    <ul class="block-footer-mainnavigation__submenu">
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/200-years-naturalis" title="More about our anniversary" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13246">200 years of Naturalis</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/follow-our-stories" title="Follow our stories and keep informed" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/101">News</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/about-us/job-opportunities-work-for-number-one-expert-in-biodiversity" title="Job opportunities at Naturalis" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/37">Vacancies</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/about-us/support-naturalis" title="Contribute to biodiversity preservation" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/13260">Support Naturalis</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/about-us/media-our-experts-are-happy-to-respond-to-all-press-inquiries" title="Press releases and images" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2626">Media</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/museum/conferences-and-events" title="Welcome your guests at a meeting surrounded by biodiversity" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/6971">Conferences and events</a>
+                      </li>
+                            <li class="block-footer-mainnavigation__submenu-item">
+            <a href="/en/about-us/our-building" title="More about our new building" class="block-footer-mainnavigation__submenu-item-link" data-drupal-link-system-path="node/2768">Our building</a>
+                      </li>
+              </ul>
+      
+                    </li>
+              </ul>
+      
+
+
+  </nav>
+<div id="block-socialprofiles" class="block-socialprofiles">
+  
+      <h2 class="block-socialprofiles__title">Follow our stories</h2>
+    
+      
+  <div class="item-list-social-profiles ">
+      <ul class="item-list-social-profiles__list">
+          <li class="item-list-social-profiles__list-item"><a href="https://www.facebook.com/museumnaturalis/" target="_blank" data-social-profile="facebook">Facebook</a></li>
+          <li class="item-list-social-profiles__list-item"><a href="https://twitter.com/museumnaturalis" target="_blank" data-social-profile="twitter">Twitter</a></li>
+          <li class="item-list-social-profiles__list-item"><a href="https://www.instagram.com/naturalismuseum/?hl=nl" target="_blank" data-social-profile="instagram">Instagram</a></li>
+          <li class="item-list-social-profiles__list-item"><a href="https://www.youtube.com/channel/UCY5X640rzW7G0lLFrQgBc7g" target="_blank" data-social-profile="youtube">Youtube</a></li>
+      </ul>
+  </div>
+  </div>
+
+
+<nav aria-labelledby="block-footernavigation-title" id="block-footernavigation" class="block-footernavigation">
+            
+  <h2 id="block-footernavigation-title" class="visually-hidden block-footernavigation__title">Footer navigation</h2>
+  
+
+            
+
+    
+              <ul class="block-footernavigation__menu">
+                            <li class="block-footernavigation__menu-item">
+            <a href="/en/cookies" title="Read our cookie policy" class="block-footernavigation__menu-item-link" data-drupal-link-system-path="node/2785">Cookies</a>
+                    </li>
+                            <li class="block-footernavigation__menu-item">
+            <a href="/en/privacy" title="Read our privacy policy" class="block-footernavigation__menu-item-link" data-drupal-link-system-path="node/8">Privacy</a>
+                    </li>
+                            <li class="block-footernavigation__menu-item">
+            <a href="/en/contact" title="Contact Naturalis Biodiversity Center" class="block-footernavigation__menu-item-link" data-drupal-link-system-path="node/9">Contact</a>
+                    </li>
+              </ul>
+      
+
+
+  </nav>
+
+  </div>
+
+      </footer>
+    
+      </div>
+
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/html5shiv,core\/picturefill,frontend\/global,paragraphs\/drupal.paragraphs.unpublished,responsive_table_filter\/responsive-table,system\/base,video_embed_field\/responsive-video","theme":"frontend","theme_token":null},"ajaxTrustedUrl":{"\/en\/mailing-subscribe":true,"\/en\/search":true},"user":{"uid":0,"permissionsHash":"1680787e29bd9209f248e059860964a01f2cf938f6f1cc574e4e62b5e1cffe0c"}}</script>
+<script src="/uploads/js/js_b_awCU0oKomqZ0E1ZfyzzMYaLaHKw-WPdeWtYagZ7EI.js"></script>
+
+</body>
+</html>
