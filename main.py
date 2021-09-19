@@ -4,10 +4,7 @@ __author__ = 'jaap'
 
 """
 # ---
-import sys
-import os
 import os.path as P
-import traceback
 
 # ---
 import cherrypy as CP
@@ -18,7 +15,7 @@ import mako.lookup
 # ---
 import settings as S
 import api as API
-from web import web_support
+import web_support
 
 
 # ---
@@ -29,7 +26,7 @@ class DO(object):
 class WebServer(object):
 
     def __init__(self):
-        self.template_lookup = self.get_mako_lookup
+        self.template_lookup = self.get_mako_lookup()
 
     def get_mako_lookup(self):
         print([S.PATH_TEMPLATES])
@@ -38,22 +35,30 @@ class WebServer(object):
 
     @CP.expose
     def index(self, **kwargs):
-        tmpl_file_name = P.join(S.PATH_TEMPLATES, 'index.tmpl')
-        html = MT.Template(filename=tmpl_file_name, lookup=self.template_lookup)
+        tmpl_file_name = 'index.tmpl'
+        html = self.template_lookup.get_template(tmpl_file_name)
         return html.render()
 
     @CP.expose
-    def users(self):
-        tmpl_file_name = P.join(S.PATH_TEMPLATES, 'users.tmpl')
-        html = MT.Template(filename=tmpl_file_name, lookup=self.template_lookup)
+    def parties(self):
+        tmpl_file_name = 'parties.tmpl'
+        html = self.template_lookup.get_template(tmpl_file_name)
         data = DO()
         data.users = web_support.get_users()
         return html.render(data=data)
 
     @CP.expose
-    def icons(self):
-        index_tmpl = P.join(S.PATH_TEMPLATES, 'icons.tmpl')
-        html = MT.Template(filename=tmpl_file_name, lookup=self.template_lookup)
+    def users(self):
+        tmpl_file_name = 'users.tmpl'
+        html = self.template_lookup.get_template(tmpl_file_name)
+        data = DO()
+        data.users = web_support.get_users()
+        return html.render(data=data)
+
+    @CP.expose
+    def logos(self):
+        htmpl_file_name = 'logos.tmpl'
+        html = self.template_lookup.get_template(tmpl_file_name)
         data = DO()
         data.icons = web_support.get_icons()
         return html.render(data=data)

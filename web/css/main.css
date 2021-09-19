@@ -1,0 +1,30 @@
+
+    .title {
+        display:inline-block;
+        alignment: center;
+        vertical-align: center;
+        width: 70%;
+    }
+    h1 {
+        width: 70%;
+    }
+    body {
+        width: 100%;
+        background-color: rgb(255, 213, 213);
+    }
+    .list {
+        background-color: ;
+    }
+    .item {
+        font-size: xx-large
+    }
+
+    .company_image {
+        display:inline-block;
+        background: transparent;
+        alignment: right;
+    }
+
+    .header {
+        width: 100%;
+    }
