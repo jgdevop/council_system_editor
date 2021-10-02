@@ -44,20 +44,22 @@ class WebServer(object):
         tmpl_file_name = 'parties.tmpl'
         html = self.template_lookup.get_template(tmpl_file_name)
         data = DO()
-        data.users = web_support.get_users()
+        data.parties = web_support.do(web_support.get_parties)
         return html.render(data=data)
 
     @CP.expose
     def users(self):
         tmpl_file_name = 'users.tmpl'
         html = self.template_lookup.get_template(tmpl_file_name)
+        print("users")
         data = DO()
-        data.users = web_support.get_users()
+        data.users = web_support.do(web_support.get_users)
+        print(data.users)
         return html.render(data=data)
 
     @CP.expose
     def logos(self):
-        htmpl_file_name = 'logos.tmpl'
+        tmpl_file_name = 'logos.tmpl'
         html = self.template_lookup.get_template(tmpl_file_name)
         data = DO()
         data.icons = web_support.get_icons()

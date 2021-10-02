@@ -27,9 +27,17 @@ def get_icons():
         icons.append(icon)
     return icons
 
-def get_users():
+def do(db_function):
     db = DB.DB()
     db.connect()
-    users = db.get_users()
+    result = db_function(db)()
     db.disconnect()
-    return users
+    return result
+
+def get_users(db):
+    # return the name of the function
+    return db.get_users
+
+def get_parties(db):
+    # return the name of the function
+    return db.get_parties

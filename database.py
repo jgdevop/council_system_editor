@@ -350,7 +350,7 @@ class DB(object):
                 if user[3] == card[0]:
                     card_key = card[1]
                     break
-            #if found:
+            #if found:database.py
             result.append((user[0], user[1], mic_id, user[2], group_id, card_key, user[4]))
         #for r in result:
         #    print(r)
